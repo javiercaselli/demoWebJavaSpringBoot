@@ -1,0 +1,1 @@
+Una sencillisima aplicacion web Java realizada con Maven, Springboot (web y thymeleaf) para ilustrar cómo funcionan estas aplicaciones. Funciona sobre una simple base de datos H2 e implementa un CRUD de Alumnos.
